@@ -4,6 +4,7 @@
     box-sizing: border-box;
 }
 
+/* Prima sezione */
 
 .pattern{
     background-color: lightblue;
@@ -22,6 +23,9 @@
     font-size: 40px;
 }
 
+
+/* Seconda sezione */
+
 .second-section{
     margin-left: 50px;
 }
@@ -29,6 +33,9 @@
 .photo-description{
     font-size: 12px;
 }
+
+
+/* Terza sezione */
 
 .third-section{
     margin-left: 50px;
@@ -45,6 +52,11 @@
     width: 750px;
     margin-bottom: 20px;
 }
+
+
+
+/* inizio tabella */
+
 
 .normal-cell{
     height: 40px;
@@ -68,6 +80,10 @@
 table{
     margin-bottom: 20px;
 }
+
+
+/* Fine tabella */
+
 
 .suggestions{
     color: rgb(92, 88, 88);
