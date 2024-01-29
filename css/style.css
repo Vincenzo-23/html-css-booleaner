@@ -1,0 +1,52 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+.pattern{
+    background-color: lightblue;
+
+}
+
+
+.first-section{
+    
+    width: 750px;
+    margin-left: 50px;
+    margin-bottom: 20px;
+}
+
+.main-title{
+    font-size: 40px;
+}
+
+.second-section{
+    margin-left: 50px;
+}
+
+.photo-description{
+    font-size: 12px;
+}
+
+.third-section{
+    margin-left: 50px;
+    margin-top: 20px;
+}
+
+.first-paragraph{
+    font-size: 15px;
+    width: 750px;
+    margin-bottom: 20px;
+}
+
+.list-item{
+    width: 750px;
+    margin-bottom: 20px;
+}
+
+th{
+    width: 250px;
+    border: 1px solid black;
+}
